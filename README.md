@@ -53,9 +53,9 @@ Here are some ideas to get you started:
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
   ![Centos](https://img.shields.io/badge/-Centos-333333?style=flat&logo=centos)
   ![Debian](https://img.shields.io/badge/-Debian-333333?style=flat&logo=debian)
-  
+ <!-- 
 ## Let's see how I did this year:
 |![Github stats](https://github-readme-stats.vercel.app/api?username=haim-barilan&show_icons=true&theme=blueberry&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haim-barilan&show_icons=true&theme=blueberry&count_private=true&langs_count=8&layout=compact) |
 | ---------- | ----------|
-
+-->
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=haim-barilan)
