@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Haim Bar-ilan!](https://www.linkedin.com/in/haim-bar-ilan/) 
+# Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Haim Bar-ilan!](https://www.linkedin.com/in/haim-bar-ilan/) 
 <!--
 **Haim-Barilan/Haim-Barilan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br/>
-### About Me 🚀
+
+## About Me 🚀
 🌱 Software Engineer with a demonstrated history working as a Full Stack Developer & DevOps. </br>
 👨‍💻  I am passionate about Cloud Dev & I enjoy learning new things. </br>
 
@@ -57,3 +57,5 @@ Here are some ideas to get you started:
 ## Let's see how I did this year:
 |![Github stats](https://github-readme-stats.vercel.app/api?username=haim-barilan&show_icons=true&theme=blueberry&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haim-barilan&show_icons=true&theme=blueberry&count_private=true&langs_count=8&layout=compact) |
 | ---------- | ----------|
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=haim-barilan)
